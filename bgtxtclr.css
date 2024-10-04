@@ -1,0 +1,26 @@
+*{
+    background: grey;
+}
+
+#p1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    font-size: small;
+}
+
+.p2{
+    color: green;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: medium;
+}
+
+#p3{
+    background-color: pink;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: large;
+}
